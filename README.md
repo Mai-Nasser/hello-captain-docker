@@ -4,7 +4,7 @@ A simple Docker image that prints "Hello, Captain" when run.
 This project is part of the [Basic Dockerfile Project](https://roadmap.sh/projects/basic-dockerfile) from roadmap.sh
 
 
-##Prerequisities
+## Prerequisities
 - Docker installed on your system
 
 
@@ -18,5 +18,5 @@ This project is part of the [Basic Dockerfile Project](https://roadmap.sh/projec
    docker run  hello-captain 
 
 
-##Expected Output
+## Expected Output
  Hello, Captain!
