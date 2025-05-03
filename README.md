@@ -9,7 +9,7 @@ A simple Docker image that prints "Hello, Captain" when run.
    docker build -t hello-captain .
  
 2. Run the container
-  ```bash   
+   ```bash   
    docker run  hello-captain 
   
 
